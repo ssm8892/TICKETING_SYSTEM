@@ -1,0 +1,2 @@
+# TICKETING_SYSTEM
+Console-based theatre ticketing system accommodating multiple users, auditoriums, and showtimes. Program processes file input for existing user records, showtimes, and seating status for each auditorium. Auditoriums are set up in 2D array matrices with dynamic memory allocation. Each user Struct has its own list of orders for that specific user and all the User structs are stored in an unordered map.
